@@ -15,7 +15,7 @@ export default function Index() {
       price: 8990,
       oldPrice: 12990,
       category: 'Сумки',
-      image: 'https://cdn.poehali.dev/projects/215c857e-6073-4744-bd2b-f165749465f7/files/84e38228-2c94-4843-aee8-dde394cdf79b.jpg',
+      image: 'https://cdn.poehali.dev/files/65d24ba1-4959-466b-979b-9bf84d76ddce.jpeg',
       badge: 'Хит',
     },
     {
@@ -41,7 +41,7 @@ export default function Index() {
       name: 'Портфель Business',
       price: 12990,
       category: 'Сумки',
-      image: 'https://cdn.poehali.dev/projects/215c857e-6073-4744-bd2b-f165749465f7/files/84e38228-2c94-4843-aee8-dde394cdf79b.jpg',
+      image: 'https://cdn.poehali.dev/files/65d24ba1-4959-466b-979b-9bf84d76ddce.jpeg',
       badge: 'Новинка',
     },
   ];
