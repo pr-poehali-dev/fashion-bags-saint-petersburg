@@ -138,7 +138,7 @@ export default function Index() {
           <section className="relative bg-gradient-to-br from-foreground via-foreground to-primary text-white">
             <div className="container py-24 md:py-32">
               <div className="max-w-2xl animate-fade-in">
-                <Badge className="mb-4 bg-secondary">Новая коллекция 2024</Badge>
+                <Badge className="mb-4 bg-secondary">Новая коллекция 2025</Badge>
                 <h2 className="text-5xl md:text-6xl font-bold mb-6">Твой стиль, твоя сумка...</h2>
                 <p className="text-lg md:text-xl mb-8 text-white/90">
                   Премиальные сумки и аксессуары для современного городского стиля. Доставка по Санкт-Петербургу за 1 день.
