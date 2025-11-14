@@ -63,8 +63,8 @@ export default function Index() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-8">
             <h1 className="text-2xl font-bold">
-              <span className="text-primary">MEN</span>
-              <span className="text-foreground">STYLE</span>
+              <span className="text-primary">СУМКИ </span>
+              <span className="text-foreground"> SPb</span>
             </h1>
             <nav className="hidden md:flex gap-6">
               <button
